@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'notificationFrame'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'First cocoapod notificationFrame.'
 
   s.homepage         = 'https://github.com/romachina97/notificationFrame'

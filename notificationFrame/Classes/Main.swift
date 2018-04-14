@@ -22,9 +22,10 @@ public class GreenSquare: UIView {
     public override init(frame: CGRect) {
         super.init(frame: frame)
         self.backgroundColor = .green
+        print("I add some reallly cool features")
     }
     public required init?(coder aDecoder: NSCoder) {
+        print("before fatal error")
         fatalError()
-        print("something")
     }
 }
