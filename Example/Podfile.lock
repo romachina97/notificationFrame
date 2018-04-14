@@ -1,0 +1,16 @@
+PODS:
+  - notificationFrame (0.1.0)
+
+DEPENDENCIES:
+  - notificationFrame (from `../`)
+
+EXTERNAL SOURCES:
+  notificationFrame:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  notificationFrame: 3d9bfb9c985d2ef840317e86150b1ccc776a866c
+
+PODFILE CHECKSUM: f0901a643e5385723fb9c3e9f729b00a37652eac
+
+COCOAPODS: 1.5.0

@@ -1,0 +1,6 @@
+framework module notificationFrame {
+  umbrella header "notificationFrame-umbrella.h"
+
+  export *
+  module * { export * }
+}
