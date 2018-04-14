@@ -18,7 +18,7 @@ public class RedSquare: UIView {
     }
 }
 
-public GreenSquare: UIView {
+public class GreenSquare: UIView {
     public override init(frame: CGRect) {
         super.init(frame: frame)
         self.backgroundColor = .green
