@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'notificationFrame_Example' do
+  pod 'notificationFrame', :path => '../'
+
+  target 'notificationFrame_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
