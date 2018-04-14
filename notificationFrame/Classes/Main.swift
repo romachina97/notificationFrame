@@ -25,5 +25,6 @@ public class GreenSquare: UIView {
     }
     public required init?(coder aDecoder: NSCoder) {
         fatalError()
+        print("something")
     }
 }
